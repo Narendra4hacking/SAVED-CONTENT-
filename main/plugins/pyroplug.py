@@ -133,7 +133,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                 progress=progress_for_pyrogram,
                 progress_args=(
                     client,
-                    "**DOWNLOADING: __MAID GAMER__**\n ",
+                    "**DOWNLOADING: __@jaat_bhae_2__**\n ",
                     edit,
                     time.time()
                 )
@@ -186,7 +186,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**UPLOADING: __MAID GAMER__**\n ',
+                        '**UPLOADING: __@jaat_bhae_2__**\n ',
                         upm,
                         time.time()
                     )
@@ -229,7 +229,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**UPLOADING:**\n**bot made by MAID GAMER🇮🇳**',
+                        '**UPLOADING:**\n**bot made by @jaat_bhae_2**',
                         upm,
                         time.time()
                     )
