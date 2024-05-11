@@ -1,11 +1,11 @@
-import os
+import os 
 from .. import bot as gagan
 from telethon import events, Button
 from telethon.tl.types import InputMediaPhoto
 
 S = "/start"
 START_PIC = "https://telegra.ph/file/d0cabd906ba4348aa2d5c.jpg"
-TEXT = "👋 Hi, I am 'Save Restricted Content' bot Made by __** @MASOOM_BAALAK 🇮🇳™**__\n\n✅ Send me the Link of any message of Restricted Channels to Clone it here.\nFor private channel's messages, send the Invite Link first."
+TEXT = "👋 Hi, I am 'Save Restricted Content' bot Made by __** @MASOOM_BAALAK🇮🇳™**__\n\n✅ Send me the Link of any message of Restricted Channels to Clone it here.\nFor private channel's messages, send the Invite Link first."
 
 def is_set_button(data):
     return data == "set"
