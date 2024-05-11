@@ -1,4 +1,4 @@
-# Join t.me/dev_gagan
+# Join t.me/SUTPUTRA_KARAN
 
 import asyncio, time, os
 
